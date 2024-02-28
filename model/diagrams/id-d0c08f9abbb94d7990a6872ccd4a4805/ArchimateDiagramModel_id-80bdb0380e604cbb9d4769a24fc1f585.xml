@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Viewpoint - Tjenestesammensetning"
-    id="id-80bdb0380e604cbb9d4769a24fc1f585">
+    id="id-80bdb0380e604cbb9d4769a24fc1f585"
+    documentation="Målgruppe: De som utreder eller utvikler e-helseløsninger&#xD;&#xA;Behov: Synliggjøre hvordan en applikasjonstjeneste er bygd opp og hvem tjenesten brukes av&#xD;&#xA;Detaljnivå: Detaljert&#xD;&#xA;Arkitekturlag / aspekt: Applikasjon&#xD;&#xA;Annet:&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-26ab1a147d074dc3b155f182a2dc9801"
