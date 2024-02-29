@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Viewpoint - Verdikjede"
     id="id-5adc5b6da53045cc9f3d13c4914d4625"
-    documentation="Målgruppe: Ledere&#xD;&#xA;Behov: Synliggjøre verdikjeden som er relevant for tiltaket og hvilke kapabiliteter som trengs for å understøtte den&#xD;&#xA;Detaljnivå: Overordnet&#xD;&#xA;Arkitekturlag / aspekt: Strategi, motivasjon, adferd&#xD;&#xA;Annet:&#xD;&#xA;">
+    documentation="Målgruppe: Ledere&#xD;&#xA;Behov: Synliggjøre verdikjeden som er relevant for tiltaket og hvilke kapabiliteter som trengs for å understøtte den, verdiforslaget for verdikjeden har for ulike interessenter&#xD;&#xA;Detaljnivå: Overordnet&#xD;&#xA;Arkitekturlag / aspekt: Strategi, motivasjon, adferd&#xD;&#xA;Annet:&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9344b0b8b2f14f088948bd71f98cda71"
@@ -52,7 +52,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-94b3c7f8392446a8974faeab556b9f59"
-      targetConnections="id-385bcc5a7a4c477f977d8643e07b5a5d"
+      targetConnections="id-385bcc5a7a4c477f977d8643e07b5a5d id-ffd7f4bd7479401caf8c106b547ec429"
       textPosition="1">
     <bounds
         x="361"
@@ -69,6 +69,15 @@
       targetConnections="id-410ece45f0394fb9b72fce503960c734"
       textPosition="1"
       type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ffd7f4bd7479401caf8c106b547ec429"
+        source="id-c4722c693dd042df84d1263fc905b35e"
+        target="id-94b3c7f8392446a8974faeab556b9f59">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-7aadadfb5f434486b9f08dda8f200376.xml#id-7aadadfb5f434486b9f08dda8f200376"/>
+    </sourceConnections>
     <bounds
         x="576"
         y="96"
