@@ -67,15 +67,16 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c4722c693dd042df84d1263fc905b35e"
       targetConnections="id-410ece45f0394fb9b72fce503960c734"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <bounds
         x="576"
         y="96"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-4eeec70183d9456d8222d30c55c9f7e3.xml#id-4eeec70183d9456d8222d30c55c9f7e3"/>
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-56ffaae3230f49888701fdbdbc53b6ff.xml#id-56ffaae3230f49888701fdbdbc53b6ff"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
