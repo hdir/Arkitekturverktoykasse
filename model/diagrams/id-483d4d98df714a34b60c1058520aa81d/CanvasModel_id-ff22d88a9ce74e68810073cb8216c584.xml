@@ -1,0 +1,28 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Verdikjede-eksempel-tillitsrammeverk"
+    id="id-ff22d88a9ce74e68810073cb8216c584">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-19337172d23a42a29dae8455cf6d49ac"
+      textAlignment="1"
+      borderColor="#000000">
+    <bounds
+        x="12"
+        y="24"
+        width="3265"
+        height="1705"/>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-9a14957b87124b6493357f53d43fffc7"
+        name="Image"
+        imagePath="images/_lEjaIPJyEe6KctgnaTGrnw.png">
+      <bounds
+          x="12"
+          y="12"
+          width="3404"
+          height="1522"/>
+    </children>
+  </children>
+</canvas:CanvasModel>
