@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Viewpoint - Applikasjon"
     id="id-7df5568d3693461bacaad8c58c62bb50"
-    documentation="Målgruppe: Nyttig for ledernivå og arkitekter&#xD;&#xA;Behov: overordnet oversikt over sentrale applikasjonskomponenter og deres relasjon til lokale applikasjonskomponenter&#xD;&#xA;Detaljnivå: Overordnet&#xD;&#xA;Arkitekturlag / aspekt: Applikasjon&#xD;&#xA;Annet: ">
+    documentation="Målgruppe: Nyttig for ledernivå, prosjektledere og arkitekter&#xD;&#xA;Behov: overordnet oversikt over sentrale applikasjonskomponenter og deres relasjon til lokale applikasjonskomponenter&#xD;&#xA;Detaljnivå: Overordnet&#xD;&#xA;Arkitekturlag / aspekt: Applikasjon&#xD;&#xA;Annet: ">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-d9a3552f5b4147138d50433908da52be"
