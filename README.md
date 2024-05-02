@@ -10,6 +10,7 @@ Koble til repositoriet gjennom Archi med Github-plugin eller se på innholdet i 
 * Det viktigste er at det er forståelig.
 * Bruk eksisterende viewpoints.
 * Bruk færrest mulig elementtyper.
+* Gjenbruk elementer innad i samme modell så langt det er mulig.
 * Bruk standardfarger fra archimate
 * Bruk bokser som figur for elementer.
   * Unntak for aktør ++
