@@ -30,6 +30,8 @@ På Collobaration velger du `Add remote model`, og legger inn:
 
 Etter du har lastet ned til Archi, kan du nå vise arbeidsområdene fra Collaboration-menyen i Archi.
 
+> TIPS: for å se modellen må "Models" vinduet være oppe i Archi (ctrl-shift-1).
+
 ## Les mer
 
 * [Archimate tool](https://www.archimatetool.com/)
