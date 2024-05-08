@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="har problem"
+    id="id-e6499d4ff4fd441d8b8a422d303a05be">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-a1800662862d4e68a8fe3d521ffe6c06.xml#id-a1800662862d4e68a8fe3d521ffe6c06"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-40da0ee982364775a57b50e3d14efb2e.xml#id-40da0ee982364775a57b50e3d14efb2e"/>
+</archimate:AssociationRelationship>
