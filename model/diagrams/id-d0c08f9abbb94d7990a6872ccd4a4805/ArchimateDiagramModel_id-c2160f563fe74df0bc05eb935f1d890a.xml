@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Viewpoint - Kapabiliteter"
     id="id-c2160f563fe74df0bc05eb935f1d890a"
-    documentation="Målgruppe: Ledere&#xD;&#xA;Behov: Synliggjøre hvilke kapabiliteter som er relevante og hvilken status de har&#xD;&#xA;Detaljnivå: Overordnet&#xD;&#xA;Arkitekturlag / aspekt: Strategi, motivasjon, struktur&#xD;&#xA;Annet: Kapabilitetsperspektivet kan også inneholde informasjon om hvilke roller som er knyttet til de ulike kapabiliteter&#xD;&#xA;&#xD;&#xA;">
+    documentation="Målgruppe: Ledere&#xD;&#xA;Behov: Synliggjøre hvilke kapabiliteter som er relevante og hvilken status de har&#xD;&#xA;Detaljnivå: Overordnet&#xD;&#xA;Arkitekturlag / aspekt: Strategi, motivasjon, struktur&#xD;&#xA;&#xD;&#xA;Kapabiliteter representerer de nåværende eller ønskede evnene til en organisasjon, realisert av  mennesker, prosesser, informasjon og teknologi.&#xD;&#xA;&#xD;&#xA;Annet: Kapabilitetsperspektivet kan også inneholde informasjon om hvilke roller som er knyttet til de ulike kapabiliteter&#xD;&#xA;&#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9528887c84e04831b9962cf67235be5f"
