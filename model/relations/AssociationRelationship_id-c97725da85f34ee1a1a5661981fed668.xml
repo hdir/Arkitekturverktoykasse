@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verdi for"
+    id="id-c97725da85f34ee1a1a5661981fed668">
+  <source
+      xsi:type="archimate:Value"
+      href="Value_id-ec209b7fc577418090a36d0708c0bb9f.xml#id-ec209b7fc577418090a36d0708c0bb9f"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-789d4d532ea14641adba43c61a93e2ed.xml#id-789d4d532ea14641adba43c61a93e2ed"/>
+</archimate:AssociationRelationship>

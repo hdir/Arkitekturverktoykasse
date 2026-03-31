@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verdi av produkt"
+    id="id-b13f99179b594566a0d82c7564a11671">
+  <source
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-f83337a34a494fa891638218a4e3e460.xml#id-f83337a34a494fa891638218a4e3e460"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-ec209b7fc577418090a36d0708c0bb9f.xml#id-ec209b7fc577418090a36d0708c0bb9f"/>
+</archimate:AssociationRelationship>

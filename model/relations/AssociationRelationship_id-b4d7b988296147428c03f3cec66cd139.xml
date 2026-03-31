@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="problem / vondter"
+    id="id-b4d7b988296147428c03f3cec66cd139">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-789d4d532ea14641adba43c61a93e2ed.xml#id-789d4d532ea14641adba43c61a93e2ed"/>
+  <target
+      xsi:type="archimate:Assessment"
+      href="Assessment_id-ade5b81d79e34cf1b84486103c7276d8.xml#id-ade5b81d79e34cf1b84486103c7276d8"/>
+</archimate:AssociationRelationship>

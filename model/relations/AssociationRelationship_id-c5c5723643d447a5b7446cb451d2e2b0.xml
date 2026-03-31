@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="opptatt av"
+    id="id-c5c5723643d447a5b7446cb451d2e2b0">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-789d4d532ea14641adba43c61a93e2ed.xml#id-789d4d532ea14641adba43c61a93e2ed"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-332d359799874dc9b41e161b5011ac8c.xml#id-332d359799874dc9b41e161b5011ac8c"/>
+</archimate:AssociationRelationship>
